@@ -1,2 +1,0 @@
-# retrospective
-Created with CodeSandbox
