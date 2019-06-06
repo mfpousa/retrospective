@@ -56,7 +56,6 @@ export default class Board extends Component {
 
   render() {
     const { columns } = this.state;
-    console.log(columns);
     return (
       <div
         className={"Board"}
